@@ -1,0 +1,2 @@
+# Consider spatial relations
+# Regularization term KL(P || Q)
